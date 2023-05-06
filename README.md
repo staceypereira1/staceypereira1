@@ -34,7 +34,9 @@
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=staceypereira1&style=flat-square&color=blue" alt=""/>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=staceypereira1&style=flat-square&color=blue" alt=""/>
+</div>
 
 <!--
 **staceypereira1/staceypereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
