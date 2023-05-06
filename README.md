@@ -35,7 +35,7 @@
 </div>
 
 <div>
-  <img src="https://komarev.com/ghpvc/?username=staceypereira1&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=staceypereira1&style=flat-square&color=blue" alt="Profile views"/>&nbsp;
 </div>
 
 <!--
