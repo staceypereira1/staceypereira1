@@ -33,11 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div>
-  
-  <img src="https://komarev.com/ghpvc/?username=staceypereira1&style=flat-square&color=blue" alt="Profile views"/>&nbsp;
-</div>
-
 <!--
 **staceypereira1/staceypereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
