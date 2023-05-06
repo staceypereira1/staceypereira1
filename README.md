@@ -5,6 +5,7 @@
 </h1>
 
 <h2> Fullstack developer</h2>
+Skills
 <!--
 **staceypereira1/staceypereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
