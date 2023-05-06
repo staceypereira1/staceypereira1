@@ -5,6 +5,14 @@
 </h1>
 
 <h2> Fullstack developer from SF Bay Area</h2>
+
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/rpp2205-boc-dolomite/biteshare-app"> Biteshare </a></li>
+  <li>🌱 I’m currently learning Typescript, Python </li>
+  <li>📫 How to reach me: <a href = "mailto: staceypereira1@gmail.com">staceypereira1@gmail.com </a></li>
+  <li>😄 Pronouns: she/her </li>
+</ul>
+
 <h3> Skills </h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -20,12 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-<ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/rpp2205-boc-dolomite/biteshare-app"> Biteshare </a></li>
-  <li>🌱 I’m currently learning Typescript, Python </li>
-  <li>📫 How to reach me: <a href = "mailto: staceypereira1@gmail.com">staceypereira1@gmail.com </a></li>
-  <li>😄 Pronouns: she/her </li>
-</ul>
 
 <!--
 **staceypereira1/staceypereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
