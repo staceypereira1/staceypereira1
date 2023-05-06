@@ -15,7 +15,7 @@
 
 <h3>Connect with me: </h3>
 <a href="https://www.linkedin.com/in/stacey-pereira-swe/">
-  <img src="https://www.flaticon.com/free-icon/linkedin_174857" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/40px/linkedin.png" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
 
 <h3> Skills </h3>
