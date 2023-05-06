@@ -20,14 +20,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
-- 🔭 I’m currently working on <alt src="https://github.com/rpp2205-boc-dolomite/biteshare-app"> Biteshare </alt>
-- 🌱 I’m currently learning Typescript, Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: staceypereira1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/rpp2205-boc-dolomite/biteshare-app"> Biteshare </a></li>
+  <li>🌱 I’m currently learning Typescript, Python </li>
+  <li>📫 How to reach me: staceypereira1@gmail.com </li>
+  <li>😄 Pronouns: she/her </li>
+</ul>
+
 <!--
 **staceypereira1/staceypereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
