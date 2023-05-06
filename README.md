@@ -1,6 +1,9 @@
-### Hi there My name is Stacey Pereira
+<h1>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  My name is Stacey Pereira
+</h1>
 <hr>
-what does this do
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <!--
 **staceypereira1/staceypereira1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
