@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Web developer
+<h3> Skills </h3>
 
