@@ -8,6 +8,7 @@
 
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/rpp2205-boc-dolomite/biteshare-app"> Biteshare </a></li>
+  <li>🤝 I'm open to collaborating on Anything</li>
   <li>🌱 I’m currently learning Typescript, Python </li>
   <li>📫 How to reach me: <a href = "mailto: staceypereira1@gmail.com">staceypereira1@gmail.com </a></li>
   <li>😄 Pronouns: she/her </li>
